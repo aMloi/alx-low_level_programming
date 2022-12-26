@@ -17,11 +17,11 @@ while (c <= 'z')
 putchar(c);
 c = c + 1;
 }
-putchar('\n');
 while (d <= 'Z')
 {
 putchar(d);
 d = d + 1;
 }
+putchar('\n');
 return (0);
 }
