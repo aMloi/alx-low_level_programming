@@ -6,11 +6,10 @@
 int main(void)
 {
  char c;
-
-      c = 'a';
+ c = 'a';
       while(c <= 'z')
       {
-              printf(c);
+              putchar(c);
               c = c+1;
       }
       return (0);
