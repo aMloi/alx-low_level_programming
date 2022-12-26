@@ -10,7 +10,7 @@ int main(void)
       c = 'a';
       while(c <= 'z')
       {
-              printf"(%c\n", c);
+              printf(c);
               c = c+1;
       }
       return (0);
