@@ -2,7 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/* what */
+/**
+ *  main - say the value of the n
+ *  @n: the number that generated
+ *
+ *  return: just zero
+ */
 int main(void)
 {
 	int n;
@@ -10,7 +15,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 if (n > 0)
-printf("is positive\n");
+printf("  is positive\n");
 	else if (n == 0)
 	printf("is zero\n");
 else
