@@ -1,16 +1,13 @@
 #include <stdio.h>
 /**
- * main - prints all number 
+ * main - prints all number
  * Return: 0
  */
 int main(void)
 {
-int i = 0;
-while (i > 10)
-{
-	putchar(i);
+	int a;
+	for (a = 0; a <= 10; a++)
+	printf("%d", a);
 	putchar('\n');
-	i++;
-}
 return (0);
 }
