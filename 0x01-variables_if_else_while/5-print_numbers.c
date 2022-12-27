@@ -10,6 +10,7 @@ while (i > 10)
 {
 	putchar(i);
 	putchar('\n');
+	i++;
 }
 return (0);
 }
