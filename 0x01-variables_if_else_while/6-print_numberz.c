@@ -12,8 +12,7 @@ int main(void)
 {
 putchar(c + '0');
 c++;
-
 }
 putchar('\n');
-Return (0);
+	Return (0);
 }
