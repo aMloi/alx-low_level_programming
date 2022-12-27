@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - amicjjmcv
  * Return: 0
  */
@@ -10,7 +10,7 @@ char c = 'z';
 while (c >= 'a')
 {
 	putchar(c);
-	c++;
+	c--;
 }
 putchar('\n');
 return (0);
