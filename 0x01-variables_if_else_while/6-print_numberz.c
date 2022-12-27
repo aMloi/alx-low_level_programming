@@ -14,5 +14,5 @@ putchar(c + '0');
 c++;
 }
 putchar('\n');
-	Return (0);
+return (0);
 }
