@@ -3,9 +3,11 @@
  * print_last_digit - dkdcldkhckdf
  * Return: 0
  */
-int print_last_digit(int)
+int print_last_digit(int x)
 {
+int y;
 
-return (int % 10);
+y = (x % 10);
+return (y);
 
 }
