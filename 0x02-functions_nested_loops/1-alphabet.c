@@ -1,14 +1,14 @@
 #include "main.h"
 /**
  * print_alphabet - pkcc
- * @ch: sjnx
+ * Return: 0
  */
 void print_alphabet(void)
 
 {
-char ch ;
+char ch;
 for (ch = 'a'; ch <= 'z'; ch++)
-{ 
+{
 	_putchar(ch);
 }
 _putchar('\n');
