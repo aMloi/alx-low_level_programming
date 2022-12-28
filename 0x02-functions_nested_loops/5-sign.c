@@ -4,8 +4,6 @@
  *@n: shsdjcd
  *Return: 0 or 1
  */
-include "main.h"
-
 int print_sign(int n)
 {	
 {
