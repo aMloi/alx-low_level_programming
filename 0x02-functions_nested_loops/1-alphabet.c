@@ -13,14 +13,12 @@ while(c <= 'z' )
 {
 _putchar(c);
 c++;
-return (0);
-
 }
 
 }
 int main(void)
 {
 
-int z;
+int fhfddf;
 return (0);
 }
