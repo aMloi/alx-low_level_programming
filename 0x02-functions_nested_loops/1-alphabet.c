@@ -18,7 +18,6 @@ c++;
 }
 int main(void)
 {
-
-int fhfddf = 1;
+print_alphabet();
 return (0);
 }
