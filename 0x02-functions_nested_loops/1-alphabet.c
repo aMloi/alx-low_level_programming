@@ -5,9 +5,9 @@
  * @c: sjnx
  *
  */
-void print_alphabet(void);
-{
+void print_alphabet(void)
 
+{
 char c = 'a';
 while(c <= 'z' )
 {
@@ -21,5 +21,6 @@ return (0);
 int main(void)
 {
 
-print_alphabet ;
-return (0);}
+int z;
+return (0);
+}
