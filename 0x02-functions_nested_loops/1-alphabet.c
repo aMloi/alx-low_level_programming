@@ -1,9 +1,7 @@
 #include "main.h"
 /**
- * main - pkcc
- * Return: 0
- * @c: sjnx
- *
+ * print_alphabet - pkcc
+ * @ch: sjnx
  */
 void print_alphabet(void)
 
@@ -14,9 +12,4 @@ for (ch = 'a'; ch <= 'z'; ch++)
 	_putchar(ch);
 }
 _putchar('\n');
-}
-int main(void)
-{
-print_alphabet();
-return (0);
 }
