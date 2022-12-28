@@ -19,6 +19,6 @@ c++;
 int main(void)
 {
 
-int fhfddf;
+int fhfddf = 1;
 return (0);
 }
