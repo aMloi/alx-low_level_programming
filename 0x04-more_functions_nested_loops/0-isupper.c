@@ -1,8 +1,5 @@
 #include "main.h"
-/*
- * _isupper - sofljvijvdekfhj
- * @c: sdhvidjvdfvo
- *
+/* _isupper - sofljvijvdekfhj
  * Return: 1 or 0
  */
 int _isupper(int c)
