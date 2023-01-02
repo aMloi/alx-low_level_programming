@@ -1,10 +1,10 @@
 #include "main.h"
-/*
- * _isupper  -  checks the c letter
- * @c: sfgvsjc
- *
- * Return: 1 or 0
- */
+/**
+* _isupper - checks for uppercase character
+* @c: Variable text
+* Return: Always 0.
+*/
+
 int _isupper(int c)
 {
 
