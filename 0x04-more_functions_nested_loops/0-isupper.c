@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- * _isupper - checks the c letter
+ * _isupper  -  checks the c letter
  * @c: sfgvsjc
  *
  * Return: 1 or 0
