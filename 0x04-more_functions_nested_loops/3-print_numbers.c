@@ -1,7 +1,3 @@
-/**
-* print_numbers - checks for uppercase character
-* Return: Always 0.
-*/
 void print_numbers(void)
 {
 
