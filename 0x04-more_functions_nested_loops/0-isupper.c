@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- * _isupper(int c) - sofljvijvd
+ * _isupper - sofljvijvdekfhj
  * @c: sdhvidjvdfvo
  *
  * Return: 1 or 0
