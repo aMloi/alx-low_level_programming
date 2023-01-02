@@ -1,5 +1,8 @@
 #include "main.h"
-/* _isupper - sofljvijvdekfhj
+/*
+ * _isupper - checks the c letter
+ * @c: sfgvsjc
+ *
  * Return: 1 or 0
  */
 int _isupper(int c)
