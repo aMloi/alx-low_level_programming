@@ -22,7 +22,7 @@ while (b <= 90)
 putchar (b);
 b++;
 }
-putchar ('/n');
+putchar ('\n');
 
 return (0);
 }
