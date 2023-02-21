@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * times_table - xjhdfkugf
+ *
+ * Return: ksdhfsgfh
+ */
 void times_table(void)
 {
 	int row, col;
