@@ -1,15 +1,18 @@
 #include "main.h"
 /**
- * print_last_digit - segfsgf
- * @a: sejhfhfhf
- *
- * Return: jsdgfsgfs
- */
+* print_last_digit - segfsgf
+* @a: sejhfhfhf
+*@b: adjgsgfs
+*
+* Return: jsdgfsgfs
+*/
 
 int print_last_digit(int a)
 {
 
-return (a % 10);
+int b;
+b = (a % 10);
 
-
+_putchar(b + '0');
+return (b);
 }
