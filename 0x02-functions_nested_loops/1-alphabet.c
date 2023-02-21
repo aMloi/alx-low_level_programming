@@ -5,7 +5,7 @@
  *
  * Return: jgrdrg
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 
 char a = 97;
