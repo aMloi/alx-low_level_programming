@@ -18,7 +18,7 @@ printf("%d, ", n);
 
 
 }
-putcahr('\n');
+putchar('\n');
 }
 else
 {
