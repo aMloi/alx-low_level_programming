@@ -18,6 +18,7 @@ printf("%d, ", n);
 
 
 }
+putcahr('\n');
 }
 else
 {
@@ -29,6 +30,6 @@ for (n = n; n < 99; n--)
 
 }
 
-
+putchar('\n');
 
 }
