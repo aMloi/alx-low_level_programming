@@ -1,11 +1,11 @@
 #include "main.h"
+
 /**
- *
- * -isupper - xdhkfghfkugf
- *  @c: jxdhfxgv
- *
- *  Return: ksdhfhd
+ * _isupper - function that checks for uppercase character.
+ * @c: input value to check
+ * Return: int.
  */
+
 int _isupper(int c)
 {
 
