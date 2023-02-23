@@ -13,15 +13,15 @@ for (i = 0; i < size; i++)
 
 for (j = 1; j < size; j++)
 {
-putchar('#');
+_putchar('#');
 
 
 }
 
 
-putchar('#');
+_putchar('#');
 
-putchar('\n');
+_putchar('\n');
 
 }
 
