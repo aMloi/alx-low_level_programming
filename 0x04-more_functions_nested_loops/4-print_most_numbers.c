@@ -17,11 +17,8 @@ if (i == 50 || i == 52)
 continue;
 }
 else
-putchar(i);
+_putchar(i);
 
 }
-putchar('\n');
-}
-
-
+_putchar('\n');
 }
