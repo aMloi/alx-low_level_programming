@@ -1,17 +1,18 @@
-#include "main.h"
 /**
- * _puts - whqqywy wuwywyw
- * @str: wahwhahwh shwyah
- *
- * Return: whahah ahwhw
+ * File: 3-puts.c
+ * Auth: Brennan D Baraban
+ */
+
+#include "main.h"
+
+/**
+ * _puts - Prints a string to stdout.
+ * @str: The string to be printed.
  */
 void _puts(char *str)
 {
-	int i = 0;
+	while (*str)
+		_putchar(*str++);
 
-	while (str[i] != '\0')
-	{ _puts(*str[i]);
-i++;
-	}
-	_puts('\n');
+	_putchar('\n');
 }
