@@ -7,11 +7,12 @@
  */
 void print_rev(char *s)
 {
-	int len = 0;
-
-/* determine the length of the string */
-while (*(s + len) != '\0')
+char *str = s;
+while (*s != '\0')
+s++;
+while (s >= str)
 {
-len++;
+_puts(*(--s));
 }
+_puts('\n');
 }
